@@ -179,7 +179,7 @@ Kontribusi sangat disambut. Silakan fork repositori ini, buat branch fitur baru,
 
 ## Kontak
 
-**Dr. Fauzan Nur Ahmadi, S.Kom., M.Cs.**
+**Fauzan Nur Ahmadi**
 Universitas Sumatera Utara — Medan
 - GitHub: github.com/[fauzan-usu]
 - Email: [fauzan.nurahmadi@usu.ac.id]
