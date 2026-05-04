@@ -181,8 +181,8 @@ Kontribusi sangat disambut. Silakan fork repositori ini, buat branch fitur baru,
 
 **Fauzan Nur Ahmadi**
 Universitas Sumatera Utara — Medan
-- GitHub: github.com/[fauzan-usu]
-- Email: [fauzan.nurahmadi@usu.ac.id]
+- GitHub: github.com/fauzan-usu
+- Email: fauzan.nurahmadi@usu.ac.id
 
 ---
 
